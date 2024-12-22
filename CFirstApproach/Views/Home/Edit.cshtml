@@ -1,0 +1,151 @@
+﻿@model CFirstApproach.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit Employee Profile";
+}
+
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-9">
+            <div class="card border-0 shadow-lg">
+                <div class="card-body p-5">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="text-center mb-4">
+                                <div class="avatar-preview mb-3">
+                                    <div class="avatar-circle bg-primary text-white">
+                                        @Model.Name.Substring(0, 1)
+                                    </div>
+                                </div>
+                                <h4 class="employee-name">@Model.Name</h4>
+                                <p class="text-muted">Employee ID: #@Model.id</p>
+                            </div>
+
+                            <div class="progress-info mb-4">
+                                <h6 class="mb-3">Profile Completion</h6>
+                                <div class="progress" style="height: 10px;">
+                                    <div class="progress-bar bg-success" role="progressbar" style="width: 75%"></div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-8">
+                            <h2 class="mb-4">
+                                <i class="fas fa-user-edit text-primary"></i>
+                                Edit Profile Details
+                            </h2>
+
+                            <form asp-action="Edit" class="needs-validation">
+                                <input type="hidden" asp-for="id" />
+                                <div asp-validation-summary="ModelOnly" class="alert alert-danger" role="alert"></div>
+
+                                <div class="form-floating mb-4">
+                                    <input asp-for="Name" class="form-control form-control-lg" placeholder="Enter name" />
+                                    <label asp-for="Name">
+                                        <i class="fas fa-user text-primary me-2"></i>Full Name
+                                    </label>
+                                    <span asp-validation-for="Name" class="text-danger"></span>
+                                </div>
+
+                                <div class="form-floating mb-4">
+                                    <select asp-for="Gender" class="form-select form-select-lg">
+                                        <option value="Male">Male</option>
+                                        <option value="Female">Female</option>
+                                        <option value="Other">Other</option>
+                                    </select>
+                                    <label asp-for="Gender">
+                                        <i class="fas fa-venus-mars text-primary me-2"></i>Gender
+                                    </label>
+                                    <span asp-validation-for="Gender" class="text-danger"></span>
+                                </div>
+
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-floating mb-4">
+                                            <input asp-for="Age" class="form-control form-control-lg" placeholder="Enter age" />
+                                            <label asp-for="Age">
+                                                <i class="fas fa-birthday-cake text-primary me-2"></i>Age
+                                            </label>
+                                            <span asp-validation-for="Age" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-floating mb-4">
+                                            <input asp-for="City" class="form-control form-control-lg" placeholder="Enter city" />
+                                            <label asp-for="City">
+                                                <i class="fas fa-map-marker-alt text-primary me-2"></i>City
+                                            </label>
+                                            <span asp-validation-for="City" class="text-danger"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex justify-content-between align-items-center mt-4">
+                                    <a asp-action="Index" class="btn btn-outline-secondary btn-lg">
+                                        <i class="fas fa-arrow-left me-2"></i>Back
+                                    </a>
+                                    <button type="submit" class="btn btn-primary btn-lg px-5">
+                                        <i class="fas fa-save me-2"></i>Save Changes
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .avatar-circle {
+        width: 120px;
+        height: 120px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 48px;
+        margin: 0 auto;
+    }
+
+    .form-floating > label {
+        padding-left: 1.75rem;
+    }
+
+    .form-control:focus {
+        border-color: #4e73df;
+        box-shadow: 0 0 0 0.25rem rgba(78, 115, 223, 0.25);
+    }
+
+    .employee-name {
+        font-size: 1.5rem;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+       
+    }
+
+    .progress {
+        border-radius: 10px;
+        background-color: #e9ecef;
+    }
+
+    .progress-bar {
+        border-radius: 10px;
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script>
+        $(document).ready(function() {
+            $('.form-control').on('focus', function() {
+                $(this).parent().addClass('focused');
+            }).on('blur', function() {
+                $(this).parent().removeClass('focused');
+            });
+        });
+    </script>
+}

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|c:\\users\\cdac\\source\\repos\\cfirstapproach\\cfirstapproach\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CE396E98-9341-4BBC-94A8-E2CFF10F9636}|CFirstApproach\\CFirstApproach.csproj|solutionrelative:cfirstapproach\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CFirstApproach\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CFirstApproach\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-20T06:56:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CFirstApproach\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA0wG4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T05:17:42.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CFirstApproach\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CFirstApproach\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAA0wHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T05:14:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CFirstApproach\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AgIAAH8AAAAAAAAAAAA0wJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:52:04.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\create.cshtml",
+              "RelativeDocumentMoniker": "CFirstApproach\\Views\\Home\\create.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\create.cshtml",
+              "RelativeToolTip": "CFirstApproach\\Views\\Home\\create.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T04:37:05.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CFirstApproach\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "CFirstApproach\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA4AAAC9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T03:56:27.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CFirstApproach\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CFirstApproach\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAWwGYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:46:20.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CDAC\\source\\repos\\CFirstApproach\\CFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CFirstApproach\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T07:43:27.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
